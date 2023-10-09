@@ -1,0 +1,21 @@
+.banner {
+	background-image: url(../../images/orion.jpg);
+	margin: auto auto;
+	background-size: cover;
+	color: rgb(240, 240, 240, 1.0) ;
+	padding: 200px 0px;
+	background-position: center;
+	line-height: 100%;
+	border-radius: 5px;
+}
+
+#title {
+	margin: 100px;
+}
+
+.banner h1 {
+	font-size: 65px;
+	line-height: 100%;
+
+
+}
